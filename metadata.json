@@ -1,0 +1,10 @@
+
+{
+  "name": "AgriSmart AI",
+  "description": "An advanced AgriTech platform for disease detection, yield prediction, and smart irrigation advisories to empower small-scale farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
